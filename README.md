@@ -8,9 +8,13 @@
 - Technical Degree, Chemistry | ETEC Francisco Garcia (_2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Performance Analyst Jr. | Corporate Quality @ Louis Dreyfus Company (_January 2024 - Present_)**
+- Designed and implemented automated dashboards in Power BI to support operational and executive decision-making
+- Developed and maintained strategic KPIs for Cost of Poor Quality (COPQ), enabling data-driven performance improvements
+- Conducted cross-functional collaboration with Quality teams across Europe and the United States
+- Managed supplier data across Brazil, Europe, and the U.S., enhancing data reliability and global process alignment
+- Led corporate PDCA initiative to optimize output of the company’s second most profitable product
+- Drove efficiency through process automation and insightful data visualizations
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
