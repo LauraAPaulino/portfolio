@@ -1,11 +1,11 @@
-# Data Scientist
+# Performance & Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI, Data Analysis & Visualization
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- General Business Program | Business Training Company - BTC (_2025_)
+- B.Sc., Chemistry | University of São Paulo - USP (_2023_)
+- Technical Degree, Chemistry | ETEC Francisco Garcia (_2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
