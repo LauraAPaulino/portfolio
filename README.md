@@ -1,6 +1,6 @@
 # Performance & Data Analyst
 
-#### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI, Data Analysis & Visualization
+#### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI
 
 ## Education
 - General Business Program | BTC (_2025_)
