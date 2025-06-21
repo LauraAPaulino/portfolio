@@ -3,7 +3,7 @@
 #### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI, Data Analysis & Visualization
 
 ## Education
-- General Business Program | Business Training Company - BTC (_2025_)
+- General Business Program | BTC (_2025_)
 - B.Sc., Chemistry | University of São Paulo - USP (_2023_)
 - Technical Degree, Chemistry | ETEC Francisco Garcia (_2017_)
 
