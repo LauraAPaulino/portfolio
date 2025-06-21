@@ -1,5 +1,5 @@
 title: Laura Paulino
-logo: /assets/img/1743362372772.png
+<img src="assets/img/1743362372772.png" alt="Foto de perfil" width="150" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1;">
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
