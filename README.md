@@ -2,12 +2,21 @@
 
 #### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI
 
-## Education
+## Who I Am & What Drives Me
+Hi! I'm Laura — a curious, driven, and data-loving professional with a Bachelor’s degree in Technological Chemistry from the University of São Paulo (IQSC/USP). I’m truly passionate about turning data into meaningful insights that solve problems, unlock efficiencies, and drive smart decisions. I have hands-on experience in Business Intelligence and Industrial Performance, where I develop dynamic Power BI dashboards, manage key performance indicators (KPIs), and lead quality projects that aim to optimize costs and processes. 
+
+I'm always looking for smarter ways to do things, using methodologies to make real improvements.
+
+What really excites me is using data not just to understand what’s happening — but to make things better. I’m proactive, analytical, and constantly pushing myself to grow. I thrive on challenges, love to collaborate, and believe that data has the power to transform businesses when used with purpose and creativity. 
+
+Check out my projects and what I’ve been working on — each one shows a bit of my journey and everything I’ve been learning along the way.
+
+## Education & Professional Growth
 - General Business Program | BTC (_2025_)
 - B.Sc., Chemistry | University of São Paulo - USP (_2023_)
 - Technical Degree, Chemistry | ETEC Francisco Garcia (_2017_)
 
-## Work Experience
+## Professional Journey
 **Performance Analyst @ Louis Dreyfus Company (_January 2024 - Present_)**
 - Designed and implemented automated dashboards in Power BI to support operational and executive decision-making
 - Developed and maintained strategic KPIs for Cost of Poor Quality (COPQ), enabling data-driven performance improvements
@@ -23,7 +32,7 @@
 - Managed key quality KPIs, supporting performance tracking and reporting
 - Created and presented performance materials to assist in data-driven decision-making
   
-## Projects
+## Key Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
