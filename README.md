@@ -1,9 +1,9 @@
 # Performance & Data Analyst
 
 ## Who I Am & What Drives Me
-Hi! I'm Laura — a curious, driven, and data-loving professional. I’m passionate about transforming data into meaningful insights that solve problems, boost efficiency, and guide smart decisions. I have hands-on experience in Business Intelligence and Industrial Performance, where I build dynamic Power BI dashboards, manage key performance indicators (KPIs), and lead quality-driven projects focused on cost and process optimization.
+Hi! I'm Laura — a curious, driven, and data-loving professional. I’m passionate about transforming data into meaningful insights that solve problems, boost efficiency, and guide smart decisions. I have hands-on experience in Business Intelligence and Industrial Performance, where I build dynamic Power BI dashboards, manage key performance indicators (KPIs), and lead quality-driven projects focused on cost and process optimization. My academic journey reflects a solid foundation in science, enriched by a growing passion for data-driven decision-making, business understanding, and continuous improvement.
 
-I hold a Bachelor's degree in Technological Chemistry from the University of São Paulo - IQSC/USP (2023), and a technical degree in Industrial Chemistry from ETEC Francisco Garcia (2017). I’m currently enrolled in the General Business Program at BTC, where I’m enhancing my knowledge in corporate strategy, finance, negotiations, marketing, and investment. My academic journey reflects a solid foundation in science, enriched by a growing passion for data-driven decision-making, business understanding, and continuous improvement.
+I hold a Bachelor's degree in Technological Chemistry from the University of São Paulo - IQSC/USP (2023), and a technical degree in Industrial Chemistry from ETEC Francisco Garcia (2017). I’m currently enrolled in the General Business Program at BTC, where I’m enhancing my knowledge in corporate strategy, finance, negotiations, marketing, and investment.
 
 I'm always looking for smarter ways to do things, using methodologies to make real improvements.
 
