@@ -3,5 +3,10 @@ logo: /assets/img/headshot_circle.png
 description: Performance & Data Analyst passionate about turning data into actionable insights to drive business growth.
 #description: text below image
 #show_downloads: true
+plugins:
+  - jekyll-feed
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
 theme: jekyll-theme-minimal
-show_last_modified_at: true
