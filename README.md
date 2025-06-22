@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/assets/css/styles.css">
-
 # Performance & Data Analyst
 
 ## Who I Am & What Drives Me
