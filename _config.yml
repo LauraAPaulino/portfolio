@@ -4,13 +4,3 @@ description: "Industrial KPI, Process Mapping, Continuous Improvement and Power 
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-# Adiciona o CSS customizado
-include:
-  - assets/css/styles.css
