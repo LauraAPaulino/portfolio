@@ -11,11 +11,6 @@ What really excites me is using data not just to understand what’s happening �
 
 Check out my projects and what I’ve been working on — each one shows a bit of my journey and everything I’ve been learning along the way.
 
-## Education & Professional Growth
-- General Business Program | BTC (_2025_)
-- B.Sc., Chemistry | University of São Paulo - USP (_2023_)
-- Technical Degree, Chemistry | ETEC Francisco Garcia (_2017_)
-
 ## Professional Journey
 **Performance Analyst @ Louis Dreyfus Company (_January 2024 - Present_)**
 - Designed and implemented automated dashboards in Power BI to support operational and executive decision-making
