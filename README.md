@@ -1,7 +1,5 @@
 # Performance & Data Analyst
 
-#### Technical Skills: Industrial KPI, Process Mapping, Continuous Improvement, Power BI
-
 ## Who I Am & What Drives Me
 Hi! I'm Laura — a curious, driven, and data-loving professional with a Bachelor’s degree in Technological Chemistry from the University of São Paulo (IQSC/USP). I’m truly passionate about turning data into meaningful insights that solve problems, unlock efficiencies, and drive smart decisions. I have hands-on experience in Business Intelligence and Industrial Performance, where I develop dynamic Power BI dashboards, manage key performance indicators (KPIs), and lead quality projects that aim to optimize costs and processes. 
 
